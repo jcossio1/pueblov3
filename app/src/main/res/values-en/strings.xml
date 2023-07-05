@@ -1,3 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="op1" > English</string>
+    <string name="op2" > spanish</string>
+    <string name="op3" > Italian</string>
+
+    <string name="app_name">Pueblov3</string>
+    <string name="resema">
+In our hotels you will find very comfortable rooms at very affordable prices, our hotels have internet access, swimming pool, dining room</string>
+
+    <string name="resenares">
+ In our restaurants you will find a wide variety of dishes, with a free dining room, with a varied gastronomy for all kinds of tastes.</string>
 </resources>

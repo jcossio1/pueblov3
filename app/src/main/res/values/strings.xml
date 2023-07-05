@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Pueblov3</string>
+    <string name="op1" > Ingles</string>
+    <string name="op2" > Español</string>
+    <string name="op3" > Italiano</string>
+    <string name="resema">
+        En nuestros hoteles encontraras habitaciones muy comodas desde precios muy accesibles, nuestros hoteles cuentan con acceso a internet, piscina, comedor
+    </string>
+
+    <string name="resenares">
+        En nuestros restaurantes encontraras una gran variedad de platillos, con un comedor libre, con una gastronomia variada para todo tipo de gustos
+    </string>
+
+
+
 </resources>

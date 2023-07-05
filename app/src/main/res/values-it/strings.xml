@@ -1,3 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="op1" > Inglese</string>
+    <string name="op2" >spagnolo</string>
+    <string name="op3" > Italiano</string>
+    <string name="app_name">Pueblov3</string>
+    <string name="resema">
+Nei nostri hotel troverai camere molto confortevoli a prezzi molto convenienti, i nostri hotel dispongono di accesso a internet, piscina, sala da pranzo    </string>
+
+    <string name="resenares">Nei nostri ristoranti troverai un ampia varietà di piatti, con una sala da pranzo libera, con una gastronomia varia per tutti i gusti  </string>
+
 </resources>
